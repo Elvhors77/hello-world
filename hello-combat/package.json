@@ -4,7 +4,7 @@
   "description": "combat says hello world",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Elvhors77/hello-world.git",
+    "url": "https://github.com/Elvhors77/hello-world-true.git",
     "directory": "hellos/hello-combat"
   },
   "main": "index.js",
