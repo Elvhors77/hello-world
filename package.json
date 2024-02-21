@@ -1,9 +1,9 @@
 {
-  "name": "hello-worlds",
+  "name": "hello-worlds-a",
   "version": "1.0.5",
   "description": "hello worlds",
   "main": "index.js",
-  "repository": "https://github.com/owenjames/hello-worlds.git",
+  "repository": "https://github.com/Elvhors77/hello-world-a.git",
   "license": "MIT",
   "workspaces": [
     "hellos/*"
@@ -16,6 +16,7 @@
     "hello-bees": "^1.0.0",
     "hello-biohazard": "^1.0.0",
     "hello-bishop": "^1.0.0",
+    "hello-combat": "^1.0.0",
     "hello-box": "^1.0.0",
     "hello-bunny": "^1.0.0",
     "hello-cake": "^1.0.0",
