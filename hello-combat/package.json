@@ -1,0 +1,24 @@
+{
+  "name": "hello-combat",
+  "version": "1.0.2",
+  "description": "combat says hello world",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Elvhors77/hello-world.git",
+    "directory": "hellos/hello-combat"
+  },
+  "main": "index.js",
+  "author": "elvhors77",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cowsay": "1.5.0",
+    "hello-armadillo": "^1.0.0",
+    "hello-banana": "^1.0.0",
+    "hello-bearface": "^1.0.0",
+    "hello-bees": "^1.0.0",
+    "hello-biohazard": "^1.0.0"
+  }
+}
